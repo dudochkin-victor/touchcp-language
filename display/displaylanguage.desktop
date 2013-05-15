@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=ControlPanelApplet
+Name=Display language
+X-logical-id=qtn_comm_settings_language
+X-translation-catalog=language
+X-Maemo-Service=com.nokia.DuiControlPanel
+X-Maemo-Method=com.nokia.DuiControlPanelIf.appletPage
+X-Maemo-Object-Path=/
+X-Maemo-Fixed-Args=Display language
+
+Icon=
+Exec=
+
+[DUI]
+X-DUIApplet-Applet=libdisplaylanguage.so
+
+[DCP]
+Category= Language & Keyboard
+Order=3

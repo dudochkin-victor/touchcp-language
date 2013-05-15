@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -e
+langdatadir=/var/lib/duicontrolpanel-displaylanguageapplet
+mkdir -p $langdatadir
+chown user:users $langdatadir

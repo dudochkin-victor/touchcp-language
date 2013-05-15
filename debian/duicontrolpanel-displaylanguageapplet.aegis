@@ -1,0 +1,6 @@
+<aegis>
+    <request context="INSTALL">
+        <credential name="CAP::chown" />
+        <credential name="CAP::dac_override" />
+    </request>
+</aegis>
